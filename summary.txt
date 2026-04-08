@@ -1,0 +1,7 @@
+Section E1: 
+The merge conflict was resolved by deleting the student name and leaving only the required student ID. Then I pushed the changes and the readme to the repository.
+
+Section C:
+Change 1: "You will see quality like no other. This will be the most quality you have ever seen." was changed to "Our quality of service goals are to go above and beyond for our customers." to improve overall professional tone.
+Change 2: "Send us a message and we will make sure we respond to it at the appropriate time." was changed to "Send us a message. Our staff is waiting to hear from you." to make customers feel welcomed and improve professional tone.
+Change 3: "Our customers are what our business is all about. Without them we would not be doing business. Here is what they have to say about what we do." was changed to "Our customers are our top priority. Here is what they have to say about what we do." to improve general grammer and sentence structure. 

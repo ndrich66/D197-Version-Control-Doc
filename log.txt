@@ -1,0 +1,92 @@
+commit 53892c58b4cddc1e23db7d43ab81d41cbbe88aa3
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 22:48:02 2023 +0000
+
+    Delete readme
+
+commit b6a62925aa0b95cce4d9d05e05a76e5048ff5273
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 22:47:33 2023 +0000
+
+    Delete .git.swp
+
+commit 2e9be22c4cfddb652a45e9a8de4a5d98d7980197
+Merge: c3b6e01 f965df2
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 22:21:24 2023 +0000
+
+    Merge branch 'readme' into 'main'
+    
+    Readme
+    
+    See merge request d1978890237/001083248_D197!1
+
+commit f965df21d671dc85f7f5225be1fcdb5befbfb021
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 14:55:47 2023 -0700
+
+    Add student name with student ID.
+
+commit b2aa2417efa97f088c8e7183809a3e3a8b8528c3
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 14:13:38 2023 -0700
+
+    Add student name. Remove additional instructions for ReadMe.
+
+commit 8ffd9ad22689b54c2d93d9f59d2caf91536cb634
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 14:03:15 2023 -0700
+
+    Add student name.
+
+commit c3b6e01dce4ae401e5a1ec71a851a03ed7052640
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 12:34:08 2023 -0700
+
+    The sentence introducing customer testimonies change to improve professional tone.
+
+commit 16edec42d0431b80ae9be062c0020d117cd0f535
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 12:28:49 2023 -0700
+
+    The sentence asking to contact staff change to improve professional tone.
+
+commit 200fb2e8c2f5cd9efb7f011bb8bb689b1a342c8d
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 21 12:21:07 2023 -0700
+
+    The sentence under the header of Quality changed to improve professional tone.
+
+commit b6ad16d770c1698d8adb2f1ce8ef225930cb9382
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 14 02:14:35 2023 +0000
+
+    Update 21 files
+    
+    - /WGU_Hub/css/style.css
+    - /WGU_Hub/images/about-01.png
+    - /WGU_Hub/images/about-02.png
+    - /WGU_Hub/images/about-03.png
+    - /WGU_Hub/images/about-04.png
+    - /WGU_Hub/images/customer.png
+    - /WGU_Hub/images/ecommerce.png
+    - /WGU_Hub/images/mission.png
+    - /WGU_Hub/images/responsive.png
+    - /WGU_Hub/images/seo.png
+    - /WGU_Hub/images/vision.png
+    - /WGU_Hub/images/vision1.png
+    - /WGU_Hub/images/web-design.png
+    - /WGU_Hub/js/script.js
+    - /WGU_Hub/about.html
+    - /WGU_Hub/contact.html
+    - /WGU_Hub/customers.html
+    - /WGU_Hub/index.html
+    - /WGU_Hub/services.html
+    - /WGU_Hub/team.html
+    - /WGU_Hub/vision.html
+
+commit 7e74e3c675613c19f8e9ff308b000edad1909912
+Author: Nicole Richards <nrich66@wgu.edu>
+Date:   Thu Sep 14 00:02:45 2023 +0000
+
+    Initial commit
